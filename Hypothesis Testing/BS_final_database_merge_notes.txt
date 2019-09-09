@@ -42,6 +42,83 @@ D.) what is the best way to merge it ? ( look at the files /formats , think can 
 E.) what formatting or categories  are  needed after merge?  
 	* we need to categorize :  income into 1,2,3 buckets, city type by rural , sub, and urban
 
+Metropolitan statistical areas consist of the county or counties (or equivalent entities) associated with at least one urbanized
+ area of at least 50,000 population, plus adjacent counties having a high degree of social and economic integration with the core as m
+
+For example, New York City’s density value (almost 28,000 people per square mile) is notably higher than that of Los Angeles (about 8,300 people per square mile)
+
+Urbanized Areas (UAs) of 50,000 or more people;
+
+In 2000, the Census Bureau
+expanded the classification
+to include two types of urban
+areas: urbanized areas and
+urban clusters. Urbanized areas
+are areas with 50,000 or more
+people. Urban clusters are areas
+with at least 2,500 but fewer than
+50,000 people.7
+
+In order for a block to qualify
+as urban, it must have a density of 1,000 people per square
+mile (ppsm). Using an automated
+process, qualifying blocks are
+aggregated to form a central core
+area. Once the initial identification
+process is concluded, a second
+automated pass is initiated with a
+lower density threshold, 500 ppsm.
+This aids in identifying blocks that
+do not meet the initial density
+threshold, but may contain a mix
+of residential and nonresidential
+land use (parks, schools, commercial, retail, or industrial uses), and
+therefore should 
+
+
+Urban  = 50,000 population, 1,000 people per square
+
+
+DoD
+- Urban:  50,000 population,  3,000+ persons per square mile
+- Suburban: 1,000 - 3,000 persons per square mile
+- Rural: less than 1,000 persons per square mile
+
+Income Buckets
+0 - 45K low income
+45k-140k mid income
+140k+ high income
+
+Region Type
+- Urban:  50,000 population,  3,000+ persons per square mile
+Suburban: 1,000 - 3,000 persons per square mile
+Rural: less than 1,000 persons per square mile
+
+https://en.m.wikipedia.org/wiki/Rural_area
+rural fewer than 2,500 residents; areas designated as rural can have population densities as high as 999 per square mile or as low as 1 person per square mile.[4]
+
+Read more: http://www.city-data.com/forum/urban-planning/942899-urban-vs-suburban-vs-rural-what.html#ixzz5yy4YjHzH
+
+Read more: http://www.city-data.com/forum/urban-planning/942899-urban-vs-suburban-vs-rural-what.html#ixzz5yy4CY4l5
+
+https://www.thebalance.com/definition-of-middle-class-income-4126870
+ 
+
+Household Income Range	Millions of Households	% of Total	Comments
+Less than $20,000	  19.7	  15%	Below or near poverty level
+$20,000 - $44,999	  28.7	  23%	Low income
+$45,000 - $139,999	  57.7	  45%	Middle class
+$140,000 - $149,999	    2.6	    2%	Upper middle class
+$150,000 - $199,999	    9.0	    7%	High income
+$200,000+	    9.9	    8%	Highest tax brackets
+
+0 - 45K low income
+45k-140k mid income
+140k+ high income
+
+
+
+
 F.) what additional data to you need for additional categories?  
 	* census def for :  
 		- city type :
