@@ -31,10 +31,14 @@ Hypothesis: There is a significant different between [ HOUSEHOLD INCOME PER HOSP
 	                     ** NY - Diabettes 	=  [ REJECT   ]   NULL HYPOTHESIS
 	                     ** NY -  Joint   	=  [ REJECT   ]   NULL HYPOTHESIS
  		     CA - Joint               	=  [ ACCEPT ]   NULL HYPOTHESIS
+
 	                     ** CA - Diabettes  	=  [ REJECT   ]   NULL HYPOTHESIS
 
+Unattempted Hypos :
+-Hypothesis: There is a significant cost difference knee and diabetes procedures across private government medical centers.
+	Null:  There is not a significant cost difference knee and diabetes procedures across private government medical centers.
 
-
+-Hypothesis: There is a significant difference between ( income)  and (customer satisfaction)
 
 SIGNIFICANT P VALUE RESULTS : 
 -----------------------------------------------------------------------------------------------------    
