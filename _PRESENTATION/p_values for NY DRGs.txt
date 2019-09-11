@@ -5,8 +5,8 @@ Hypothesis: There is a significant difference between ( customer satisfaction ) 
 	RESULTS :  
 		   NY - Diabettes 	=  [ ACCEPT  ]   NULL HYPOTHESIS
 		   NY -  Joint   	=  [ ACCEPT  ]   NULL HYPOTHESIS
- 		   CA - Joint                 	 = [ ACCEPT  ]  NULL HYPOTHESIS
-	                    **CA - Diabettes           = [ REJECT    ]    NULL HYPOTHESIS
+ 		   CA - Joint               = [ ACCEPT  ]  NULL HYPOTHESIS
+	                    **CA - Diabettes     = [ REJECT    ]    NULL HYPOTHESIS
 
 
 Hypothesis: There is a significant difference between overall [ hospital rating ]  and [ procedure charge ]
@@ -20,7 +20,7 @@ Hypothesis: There is a significant difference between overall [ hospital rating 
 Hypothesis: There is a significant different between [ population density ] and [ medical procedure cost].
 	Null: There is no significant difference between population density and medical procedure cost. 
 	RESULTS :  
-	                      ** NY - Diabettes 	=  [ REJECT ]   NULL HYPOTHESIS
+	                      ** NY - Diabettes =  [ REJECT ]   NULL HYPOTHESIS
 	                      ** NY -  Joint   	=  [ REJECT ]   NULL HYPOTHESIS
  		   CA - Joint                 	 = [ ACCEPT ]  NULL HYPOTHESIS
 		   CA - Diabettes           = [ ACCEPT ]  NULL HYPOTHESIS
@@ -40,7 +40,59 @@ Unattempted Hypos :
 
 -Hypothesis: There is a significant difference between ( income)  and (customer satisfaction)
 
-SIGNIFICANT P VALUE RESULTS : 
+
+
+SIGNIFICANT P VALUE RESULTS 9/10 : 
+-----------------------------------------------------------------------------------------------------    
+**NY_DIABETES_Avg Hosp Charge_V_median Household Income    	: Pvalue = 0.0000000000062639433
+**NY_DIABETES_Avg Hosp Charge_V_income cat num             		: Pvalue = 0.0000392429526663114
+**NY_DIABETES_Avg Hosp Charge_V_region cat num             		: Pvalue = 0.0011488403251118386
+**NY_DIABETES_Avg Hosp Charge_V_Population Density         		: Pvalue = 0.0222412015780037962
+
+    
+**NY_Joint_Avg Hosp Charge_V_median Household Income   		: Pvalue =0.0000000000795424045
+**NY_Joint_Avg Hosp Charge_V_income cat num                		: Pvalue = 0.0001209725781156057
+**NY_Joint_Avg Hosp Charge_V_region cat num                		: Pvalue =0.0139538001843353739
+**NY_Joint_Avg Hosp Charge_V_Population Density           	 	: Pvalue = 0.0302512722615670588
+    
+**CA_Diabetes_Avg Hosp Charge_V_median Household Income:     	Pvalue = 0.0091367452667680485
+**CA_Diabetes_Avg Hosp Charge_V_income cat num:              		Pvalue = 0.0053542287262368865 
+
+**CA_Joint_Avg Hosp Charge_V_Patient experience national  :  	Pvalue = 0.02528690771245035995
+**CA_Diabetes_Avg Hosp Charge_V_Patient experience national  	Pvalue = 0.07937366823444505503
+
+INSIGNIFICANT  P-VALUE RESULTS :
+----------------------------------------------------------------------------------------------    
+
+NY_DIABETES_Avg Hosp Charge_V_Population                  	: Pvalue = 0.543557429107102474397 
+NY_DIABETES_Avg Hosp Charge_V_Hospital overall rating     	: Pvalue = 0.562624727594086104787
+NY_DIABETES_Avg Hosp Charge_V_Patient experience          	: Pvalue = 0.0944767700749763600 
+
+NY_Joint_Avg Hosp Charge_V_Population                     		: Pvalue = 0.52613940133256220654    
+NY_Joint_Avg Hosp Charge_V_Hospital overall rating        	: Pvalue = 0.64866388444980671579   
+NY_Joint_ Avg Hosp Charge_V_Patient experience            	: Pvalue = 0.6902740948242880314. 
+    
+CA_Joint_Avg Hosp Charge_V_median Household Income:         Pvalue = 0.168231623189933093831
+CA_Joint_Avg Hosp Charge_V_income cat num:                 	Pvalue = 0.222169928254453696858
+CA_Joint_Avg Hosp Charge_V_region cat num:                 	Pvalue = 0.773050070272948142147
+CA_Joint_Avg Hosp Charge_V_Population Density:             	Pvalue = 0.923262736362610025864
+CA_Joint_Avg Hosp Charge_V_Population:                     	Pvalue = 0.459740852205127836782
+CA_Joint_Avg Hosp Charge_V_Hospital overall rating:        	Pvalue = 0.843723614853917225353
+
+CA_Diabetes_Avg Hosp Charge_V_region cat num:              	Pvalue = 0.093434900633860271113
+CA_Diabetes_Avg Hosp Charge_V_Population Density:          	Pvalue = 0.824483715519753079803
+CA_Diabetes_Avg Hosp Charge_V_Population:                  	Pvalue = 0.794911090716678092604
+CA_Diabetes_Avg Hosp Charge_V_Hospital overall rating:     	Pvalue = 0.805291610240565614020
+
+
+
+
+
+
+
+
+
+SIGNIFICANT P VALUE RESULTS  9/9 : 
 -----------------------------------------------------------------------------------------------------    
 **NY_DIABETES_Avg Hosp Charge_V_median Household Income    	: Pvalue = 0.0000000000062639433
 **NY_DIABETES_Avg Hosp Charge_V_income cat num             		: Pvalue = 0.0000392429526663114
