@@ -1,11 +1,11 @@
 # viper_proj_1
-<h5>Collaborative Group Project<h5>
+<h5>Collaborative Group Project</h5>
 
-<h5>Participants:  Tyler Adams, Brandan Steinke, Ron Javor<h5>
+<h5>Participants:  Tyler Adams, Brandan Steinke, Ron Javor</h5>
 
 <h2> Inconsistency in US Healthcare Costs: </h2>
 
-<h5> Example: Joint replacement in the NY Manhattan area ranged from $35k to $135k.<h5>
+<h5> Example: Joint replacement in the NY Manhattan area ranged from $35k to $135k.</h5>
 
 Our team focused on medical procedure costs for Joint Replacement and Diabetes, leveraging off the consistent 2013 Medicare dataset with national standardized medical procedure codes and hospital reporting.
 The data contained the average dollar amount Medicare paid to hospitals for each procedure type, the average amount hospitals charged per procedure, along with all hospitals in the country. 
@@ -19,13 +19,13 @@ With Python Pandas we were able to extract data per state per procedure code wit
 <br>
 We were able to identify a few national correlations for cost versus population and hospital ratings. And at the state level in New York diabetes charges versus medium household income.
 
-<h5>Our results can be viewed in this power point link.<h5>
+<h5>Our results can be viewed in this power point link.</h5>
 https://github.com/BrandinO771/viper_proj_1/blob/master/_PRESENTATION/Team%20Viper%20Presentation%20Summary.docx
 
-<h5>Medicare Data Link:<h5>
+<h5>Medicare Data Link:</h5>
 https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3
 <br>
-<h5>Example Charts:<h5>
+<h5>Example Charts:</h5>
 <img src="https://github.com/BrandinO771/viper_proj_1/blob/master/charts/branzChartData/NY_Manhattan_Joint_Charges2.png">
 <br>
 <br>
