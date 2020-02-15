@@ -1,7 +1,7 @@
 # viper_proj_1
 <h5>Collaborative Group Project</h5>
 
-<h5>Participants:  Tyler Adams, Brandan Steinke, Ron Javor</h5>
+<h5>Participants:  Tyler Adams, Brandon Steinke, Ron Javor</h5>
 
 <h2> Inconsistency in US Healthcare Costs: </h2>
 
