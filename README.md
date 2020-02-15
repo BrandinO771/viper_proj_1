@@ -7,8 +7,7 @@
 
 <h5> Example: Joint replacement in the NY Manhattan area ranged from $35k to $135k.</h5>
 
-Our team focused on medical procedure costs for Joint Replacement and Diabetes, leveraging off the consistent 2013 Medicare dataset with national standardized medical procedure codes and hospital reporting.
-The data contained the average dollar amount Medicare paid to hospitals for each procedure type, the average amount hospitals charged per procedure, along with all hospitals in the country. 
+Our team focused on medical procedure costs for Joint Replacement and Diabetes, attempting to understand and find correlations to explain the wide variance in cost for these treatements/procedures across several hospitals.  We leveraged off the consistent 2013 Medicare dataset with national standardized medical procedure codes and hospital reporting. The data contained the average dollar amount Medicare paid to hospitals for each procedure type, the average amount hospitals charged per procedure, along with all hospitals in the country. 
 <br>
 <br>
 After initial analysis we could see that there were sizable variance in charges for the same procedure type, not only at the national level but within same metropolitan areas. We performed a high level national analysis determining areas with some of the highest variances and then focused on all hospitals in New York, California, and Mississippi State (to get a sort of East vs West vs Middle national analysis). 
